@@ -1,4 +1,4 @@
-# Project Title: Data Orchestration with Mage on Google Cloud Platform
+# Data Orchestration with Mage on Google Cloud Platform
 
 ## Overview
 
